@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AlertDialog</string>
+    <string name="dialog_fire_missiles">AlertDialog Title</string>
+    <string name="fire">Fire</string>
+    <string name="cancel">Cancel</string>
+    <string name="pick_color">Pick a color</string>
+    <string name="pick_toppings">Pick your toppings</string>
+    <string name="ok">Ok</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="signin">Sign in</string>
+    <string name="title_activity_dialog">DialogActivity</string>
+</resources>
